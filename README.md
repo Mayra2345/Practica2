@@ -25,4 +25,4 @@ Abra el enlace para ver los resultados obtenidos
 <a href="https://1drv.ms/u/s!Aizy46b43OzzghslU-WGV4Y6R7_W"><img src="https://1drv.ms/u/s!Aizy46b43OzzghslU-WGV4Y6R7_W" /></a>
 
 
-
+El software libre es consecuencia del método de la ética, que consiste en estudiar la bondad o la maldad sin interesarse en otros aspectos o enfoques. El análisis de lo bueno y lo malo no es caprichoso; exige proporcionar las razones por las que ciertas conductas son buenas y por lo tanto dignas de realizarse.
