@@ -25,4 +25,20 @@ Abra el enlace para ver los resultados obtenidos
 <a href="https://1drv.ms/u/s!Aizy46b43OzzghslU-WGV4Y6R7_W"><img src="https://1drv.ms/u/s!Aizy46b43OzzghslU-WGV4Y6R7_W" /></a>
 
 
-El software libre es consecuencia del método de la ética, que consiste en estudiar la bondad o la maldad sin interesarse en otros aspectos o enfoques. El análisis de lo bueno y lo malo no es caprichoso; exige proporcionar las razones por las que ciertas conductas son buenas y por lo tanto dignas de realizarse.
+En la actualidad  software libre es consecuencia del método de la ética  ya que por elección manifiesta de su autor puede ser copiado, estudiado, modificado, utilizado libremente con cualquier fin y redistribuido con o sin cambios o mejoras.
+En esta practica se utilizaron los siguientes:
+1. Ubuntu (Sistema Operativo)
+
+<a href="https://1drv.ms/u/s!Aizy46b43OzzghxX44Er1X3MZlBv"><img src="https://1drv.ms/u/s!Aizy46b43OzzghxX44Er1X3MZlBv" /></a>
+
+
+2. NotePad ++ 
+
+<a href="https://1drv.ms/u/s!Aizy46b43OzzgiB5g6eUlGQMT6f-"><img src="https://1drv.ms/u/s!Aizy46b43OzzgiB5g6eUlGQMT6f-" /></a>
+
+
+3. LibreOffice (Suite ofimática)
+
+
+<a href="https://1drv.ms/u/s!Aizy46b43Ozzgh3vr3vLlq50fKed"><img src="https://1drv.ms/u/s!Aizy46b43Ozzgh3vr3vLlq50fKed" /></a>
+
