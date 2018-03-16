@@ -42,3 +42,5 @@ En esta practica se utilizaron los siguientes:
 
 <a href="https://1drv.ms/u/s!Aizy46b43Ozzgh3vr3vLlq50fKed"><img src="https://1drv.ms/u/s!Aizy46b43Ozzgh3vr3vLlq50fKed" /></a>
 
+![texto cualquiera por si no carga la imagen](https://1drv.ms/u/s!Aizy46b43Ozzgh3vr3vLlq50fKed)
+
